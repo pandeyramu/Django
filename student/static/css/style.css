@@ -1,0 +1,26 @@
+body{
+    background-color: #c39b66;
+}
+.btn{
+    background: linear-gradient(45deg, #0d6efd, #6610f2);
+    border:solid black 2px;
+    padding:10px 20px;
+    font-size:16px;
+    color:white;
+    border-radius:5px;
+    margin :20px;
+}
+.acnbtn {
+    background: linear-gradient(45deg, #0d6efd, #6610f2);
+    border: solid black 2px;
+    font-size: 16px;
+    color: white;
+    border-radius: 5px;
+    margin: 12px;   
+    padding: 5px 10px;
+}
+
+.btn:hover{
+    transform:scale(1.05);
+    box-shadow: 0 0 10px rgba(10, 241, 45, 0.8);
+}
